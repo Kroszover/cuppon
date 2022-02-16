@@ -1,0 +1,19 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.tamanio-16{
+    font-size: 16px;
+
+}
+.tamanio-20{
+    font-size: 20px;
+
+}
+.precio_actual{
+    font-weight: 500;
+
+}
+.color-fondo {
+    background-color: var(--success);
+  }
